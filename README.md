@@ -1,5 +1,5 @@
 # Hi, I'm Varad Naik 👋
-**Data Engineer | Snowflake & Matillion Specialist | Cloud Architecture**
+**Data Engineer | Snowflake & Matillion ETL Specialist | Cloud Data Warehousing**
 
 I am a Data Engineer with 8+ months of experience at **Snap Analytics**, where I architect and optimize scalable data infrastructure. I specialize in transforming raw data into actionable insights through robust ELT/ETL pipelines and high-performance cloud data warehousing.
 
@@ -8,10 +8,10 @@ I am a Data Engineer with 8+ months of experience at **Snap Analytics**, where I
 ### 🛠️ Technical Ecosystem
 
 * **Cloud Data Warehousing:** `Snowflake` (Streams, Tasks, Snowpipe, Time Travel)
-* **Data Orchestration:** `Matillion ETL`, `Airflow`
-* **Languages:** `SQL` (Advanced), `Python` (Pandas, Numpy, Automation Scripts)
-* **Cloud Infrastructure:** `AWS` (S3, Lambda, IAM, Glue)
-* **Analytics & BI:** `Power BI` (DAX), `Excel` (VBA)
+* **Data Orchestration:** `Matillion ETL`, `Data Productivity Cloud`
+* **Languages:** `SQL` (Advanced), `Python` (Pandas, Numpy)
+* **Cloud Infrastructure:** `AWS` (S3, Lambda, IAM,)
+* **Analytics & BI:** `Power BI` (DAX) 
 
 ---
 
@@ -47,7 +47,6 @@ I am a Data Engineer with 8+ months of experience at **Snap Analytics**, where I
 ---
 
 ### 🔍 Currently Exploring
-* **Data Mesh & Data Fabric** architectures.
 * Advanced **Snowpark** for Python-based data engineering in Snowflake.
 * Automated CI/CD pipelines for Data (DataOps).
 
