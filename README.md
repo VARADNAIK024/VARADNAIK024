@@ -40,10 +40,6 @@ I am a Data Engineer with 8+ months of experience at **Snap Analytics**, where I
 
 ---
 
-### 📊 GitHub Stats
-![Varad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VARADNAIK024&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VARADNAIK024&layout=compact&theme=tokyonight)
-
 ---
 
 ### 🔍 Currently Exploring
